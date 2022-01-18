@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194536011921",
+    "project_id": "berrapp-d73ac",
+    "storage_bucket": "berrapp-d73ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194536011921:android:083aad957179e40ba52730",
+        "android_client_info": {
+          "package_name": "com.example.berrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194536011921-gbhnmalnlu4hf13iussmmfspbm10e62j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNDN7FjFw9gi0Qy44vdMVoUIy9Ug2ZnZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194536011921-gbhnmalnlu4hf13iussmmfspbm10e62j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
